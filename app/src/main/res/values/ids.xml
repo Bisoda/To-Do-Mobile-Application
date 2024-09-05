@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="save_firsttask" type="id" />
+    <item name="newTaskDateEditText" type="id" />
+    <item name="API" type="id" />
+    <item name="thirdtask" type="id" />
+    <item name="fourthtask" type="id" />
+    <item name="fifthtask" type="id" />
+    <item name="delete_thirdtask" type="id" />
+    <item name="saveBtn3" type="id" />
+    <item name="delete_fourthtask" type="id" />
+    <item name="saveBtn4" type="id" />
+    <item name="delete_fifthtask" type="id" />
+    <item name="saveBtn5" type="id" />
+</resources>

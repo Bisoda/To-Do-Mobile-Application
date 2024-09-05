@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="type_your_task">Type your task .....</string>
+    <string name="add_task">add_task</string>
+    <string name="delete01">delete01</string>
+    <string name="delete2">delete2</string>
+    <string name="take_breakfast">take_breakfast</string>
+    <string name="read_books">read_books</string>
+    <string name="organize_your_life">organize your life</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="delete5" />
+    <string name="delete4" />
+    <string name="garderning" />
+    <string name="delete3" />
+    <string name="meditation" />
+    <string name="play_cricket" />
+
+
+</resources>
